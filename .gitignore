@@ -16,6 +16,10 @@
 
 .idea
 
+talkgo
 night-reading-go
 
+# Ignore hugo generated files
 public/
+resources/
+.vscode
